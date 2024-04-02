@@ -1,5 +1,5 @@
 
-Banking App with Tkinter GUI
+##Banking App with Tkinter GUI
 This Python application provides a simple banking interface using Tkinter, allowing users to create accounts, deposit funds, withdraw funds, and check their account balances.
 
 Features
